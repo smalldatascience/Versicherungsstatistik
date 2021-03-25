@@ -13,6 +13,6 @@ The data contains 6 columns:
 
 **Column 4: (value / value):** Cell content of the table identified by column 3.
 
-**Column 5: (Tabelle / Tabelle):** Information from which of the 54 i nsurance statistics tables the value comes.
+**Column 5: (Tabelle / Tabelle):** Information from which of the 54 insurance statistics tables the value comes.
 
 **Column 6: (year / year):** Year to which the statistic refers.
