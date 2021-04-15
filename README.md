@@ -21,4 +21,5 @@ The data contains 6 columns:
 
 
 Source: https://www.fma.gv.at/en/insurance/queries/insurance-statistics/
+
 Copyright / Disclaimer: https://www.fma.gv.at/en/copyright-and-disclaimer/
